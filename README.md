@@ -1,5 +1,7 @@
 # JavaScript_70+_Projects
+
 #project1 => Modal
+
 #project2 => Image Gallery PopUp
  
 Copyright (c) 2023 Nayeem Hyder Riddhi
