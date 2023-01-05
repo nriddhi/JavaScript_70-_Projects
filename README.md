@@ -3,6 +3,8 @@
 #project1 => Modal
 
 #project2 => Image Gallery PopUp
+
+#project3 => Testimonial Slider
  
 Copyright (c) 2023 Nayeem Hyder Riddhi
 
