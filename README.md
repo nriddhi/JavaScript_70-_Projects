@@ -5,6 +5,8 @@
 #project2 => Image Gallery PopUp
 
 #project3 => Testimonial Slider
+
+#project4 => NavbarSroll Effect
  
 Copyright (c) 2023 Nayeem Hyder Riddhi
 
