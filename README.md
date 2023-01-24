@@ -7,6 +7,12 @@
 #project3 => Testimonial Slider
 
 #project4 => NavbarSroll Effect
+
+#project5 => Smooth Scroll Section
+
+#project6 => Color Switcher
+
+#project7 => Cursor Effect
  
 Copyright (c) 2023 Nayeem Hyder Riddhi
 
