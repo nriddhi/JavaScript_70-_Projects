@@ -13,6 +13,8 @@
 #project6 => Color Switcher
 
 #project7 => Cursor Effect
+
+#project8 => Gallery Carousel
  
 Copyright (c) 2023 Nayeem Hyder Riddhi
 
